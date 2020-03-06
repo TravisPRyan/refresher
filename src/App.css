@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* goal list css */
+.goalList {
+  list-style: none;
+  margin: 2rem 0;
+  padding: 0;
+}
+
+.goalList li {
+  margin: 1rem 0;
+  border: 1px solid #030000;
+  padding: 1rem;
+}
+.goals h2 {
+  text-align: center;
+}
