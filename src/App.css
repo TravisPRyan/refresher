@@ -37,7 +37,7 @@
   }
 }
 
-/* goal list css */
+/* goal list styling */
 .goalList {
   list-style: none;
   margin: 2rem 0;
@@ -50,5 +50,11 @@
   padding: 1rem;
 }
 .goals h2 {
+  text-align: center;
+}
+
+/* newGoal form styling */
+.newGoal {
+  margin: 2rem;
   text-align: center;
 }
